@@ -1,0 +1,14 @@
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\IoTEmulator.exe.config
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\IoTEmulator.exe
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\IoTEmulator.pdb
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\Microsoft.Azure.Documents.Client.dll
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\Newtonsoft.Json.dll
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\Microsoft.Azure.Documents.Client.xml
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\Newtonsoft.Json.xml
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\obj\Debug\IoTEmulator.csproj.AssemblyReference.cache
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\obj\Debug\IoTEmulator.csproj.CoreCompileInputs.cache
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\obj\Debug\IoTEmulator.csproj.CopyComplete
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\obj\Debug\IoTEmulator.exe
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\obj\Debug\IoTEmulator.pdb
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\IFI Tech Solutions\app to event hub\json to event hub\Presentations-master\Presentations-master\StreamDemo\IoTEmulator\IoTEmulator\IoTEmulator\bin\Debug\DocumentDB.Spatial.Sql.dll
